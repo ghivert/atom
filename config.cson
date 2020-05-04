@@ -2217,6 +2217,7 @@ fileIcons:
 				alias: "firerules"
 				scope: /\bsource\.fire(store|rules)(?=\\.|$)/i,
 				signature: /^service\s+cloud\.firestore\s+{/]
+			[/^storage\.rules$/i, "medium-orange"]
 			[".firebaserc", "medium-orange"]
 		]
 
